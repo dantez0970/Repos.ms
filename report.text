@@ -1,1 +1,19 @@
+<!DOCTYPE html> 
+<html lang="eng">
+
+<head>
+    <meta charset="UFT-8>-
+    <title>Form with semantic html</title>
+</head>
+<body>
+ <header>
+    <h1>Form with semantic element.</h1>
+ </header>
+   <main>
+     <form>
+       <fieldset>
+             <legend>contact information</legend>
+       <section>
+           <label for="fullname">FULLNAME:</label>
+           <input type="text id="fullname" name="fullname" required>
 
